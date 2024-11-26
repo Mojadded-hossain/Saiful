@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "𝙹𝚄𝙱𝙰𝚈𝙴𝚁-𝙱𝙾𝚃=/🩷🪽",
-  "PREFIX": "/",
+  "BOTNAME": "Tube |_| Lite ",
+  "PREFIX": ".",
   "OPERATOR": [
-    "100069926588234"
+    "100081317798618"
   ],
   "ADMINBOT": [
-    "100092747803433",
-    "61554533460706"
+    "100081317798618",
+    ""
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
